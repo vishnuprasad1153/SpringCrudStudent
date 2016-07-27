@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+.outer-container{
+	
+}
+
+body {
+    margin: 0;
+    padding-top: 50px;
+    text-align: center; /* !!! */
+}
+
+.centered {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.detail-btn {
+    padding: 0px 3px !important;
+    line-height: 1em;
+    height: 18px;
+    line-height: 18px;
+    font-size:10px;
+    width:20px;
+}
+
+.btn-panel{
+	background:#EAF6F9;
+	padding-bottom:5px;
+	padding-top:5px;
+}
+
+
+.txt-note {
+    margin-left: 6px;
+}
